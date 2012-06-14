@@ -8,3 +8,10 @@ C:\Users\nino\Documents\Visual Studio 2010\Projects\test_matlabDLL\test_matlabDL
 D:\Project\Chamber\RD\test_matlabDLL\test_matlabDLL\bin\Debug\test_matlabDLL.exe.config
 D:\Project\Chamber\RD\test_matlabDLL\test_matlabDLL\obj\x86\Debug\test_matlabDLL.exe
 D:\Project\Chamber\RD\test_matlabDLL\test_matlabDLL\obj\x86\Debug\test_matlabDLL.pdb
+D:\Project\Chamber\RD\test_matlabDLL\test_matlabDLL\test_matlabDLL\bin\Debug\test_matlabDLL.exe.config
+D:\Project\Chamber\RD\test_matlabDLL\test_matlabDLL\test_matlabDLL\obj\x86\Debug\test_matlabDLL.exe
+D:\Project\Chamber\RD\test_matlabDLL\test_matlabDLL\test_matlabDLL\obj\x86\Debug\test_matlabDLL.pdb
+D:\Project\Chamber\RD\test_matlabDLL\test_matlabDLL\test_matlabDLL\bin\Debug\test_matlabDLL.exe
+D:\Project\Chamber\RD\test_matlabDLL\test_matlabDLL\test_matlabDLL\bin\Debug\test_matlabDLL.pdb
+D:\Project\Chamber\RD\test_matlabDLL\test_matlabDLL\test_matlabDLL\bin\Debug\Interop.MLApp.dll
+D:\Project\Chamber\RD\test_matlabDLL\test_matlabDLL\test_matlabDLL\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -11,6 +11,7 @@
  * ----------------------------------------------------------------------------------------------------
  * 20120607  | NinoLiu  | 1.0.0  | Integration Test 
  * ----------------------------------------------------------------------------------------------------
+ * 20120614  | NinoLiu  | 1.1.0  | Add a reference value for drawing subplot
  * ======================================================================================================
  */
 using System;
@@ -45,16 +46,16 @@ namespace test_matlabDLL
             Matlab_OnNet.matlab_plot matlab = new Matlab_OnNet.matlab_plot();
 
             matlab.matlab_set();
-            matlab.Data_plot(FILE_NAME1, SheetName1, str);
+            matlab.Data_plot(FILE_NAME1, SheetName1, str,9);
             
-            matlab.Data_plot(FILE_NAME2, SheetName2, str);
-            matlab.Data_plot(FILE_NAME2, SheetName3, str);
-            matlab.Data_plot(FILE_NAME2, SheetName4, str);
+            matlab.Data_plot(FILE_NAME2, SheetName2, str,9);
+            matlab.Data_plot(FILE_NAME2, SheetName3, str,9);
+            matlab.Data_plot(FILE_NAME2, SheetName4, str,9);
     
-            matlab.Data_plot(FILE_NAME3, SheetName5, str);
-            matlab.Data_plot(FILE_NAME3, SheetName6, str);
-            matlab.Data_plot(FILE_NAME3, SheetName7, str);
-            matlab.Data_plot(FILE_NAME4, SheetName8, str);
+            matlab.Data_plot(FILE_NAME3, SheetName5, str,9);
+            matlab.Data_plot(FILE_NAME3, SheetName6, str,9);
+            matlab.Data_plot(FILE_NAME3, SheetName7, str,9);
+            matlab.Data_plot(FILE_NAME4, SheetName8, str,9);
 
         
             for (; ; ) ;
